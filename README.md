@@ -58,7 +58,7 @@ Early diagnosis of urological cancers is critical for improving patient outcomes
 
 ### Prerequisites
 
-* **Python 3.x**
+* **Python 3.9
 * **Conda** (recommended for environment management) or **pip**
 
 ### Installation
@@ -132,7 +132,7 @@ If you use this code or data in your research, please cite our corresponding pub
 
 ````
 
-[Your Publication Details Here]
+[xxxxxx]
 
 ```
 
@@ -147,6 +147,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or inquiries, please contact:
-[Your Name/Corresponding Author Name]
-[Your Email Address]
+[zhanghuiyong@gxmu.edu.cn; wangfubo@gxmu.edu.cn (F. Wang);
+]
 ```
